@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+body{
+    background-color: rgb(219, 13, 13);
+}
+.header{
+    /* background:
+    url("./images/mockupb.jpg") center/cover no-repeat fixed; */
+    background-image: center/cover no-repeat fixed;
+  min-height: 100vh;
+  position: relative;
+}
